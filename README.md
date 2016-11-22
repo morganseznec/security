@@ -1,2 +1,2 @@
 # security
-A collection of awesome security stuffs like tools, scripts, snippets and more
+A collection of awesome security stuff like tools, scripts, snippets and more
