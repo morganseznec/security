@@ -5,7 +5,7 @@ A collection of awesome security tools, scripts, snippets and more
 ## 1. Summary
 
 1. [Summary](#1-summary)
-1. [Vulnerability & Exploit Database](#2-vulnerability-exploit-databases)
+1. [Vulnerability & Exploit Databases](#2-vulnerability--exploit-databases)
 1. [CVE Details](#3-cve-details)
 1. [Mailing Lists](#4-mailing-lists)
 
